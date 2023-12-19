@@ -1,0 +1,11 @@
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/bin/Debug/net6.0/AdvancedTechniques.deps.json
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/bin/Debug/net6.0/AdvancedTechniques.dll
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/bin/Debug/net6.0/AdvancedTechniques.pdb
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/obj/Debug/net6.0/AdvancedTechniques.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/obj/Debug/net6.0/AdvancedTechniques.AssemblyInfoInputs.cache
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/obj/Debug/net6.0/AdvancedTechniques.AssemblyInfo.cs
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/obj/Debug/net6.0/AdvancedTechniques.csproj.CoreCompileInputs.cache
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/obj/Debug/net6.0/AdvancedTechniques.dll
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/obj/Debug/net6.0/refint/AdvancedTechniques.dll
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/obj/Debug/net6.0/AdvancedTechniques.pdb
+/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/obj/Debug/net6.0/ref/AdvancedTechniques.dll
