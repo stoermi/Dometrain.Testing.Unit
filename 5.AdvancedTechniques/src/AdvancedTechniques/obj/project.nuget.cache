@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wroBLY8N5wac2oYK9VIU5vFmBvU3jGQPiy/l401QtwWbZfn1HW6PQA3u8D54smP8MdO98Ggr/XapAcCO1zx/2w==",
+  "dgSpecHash": "QDRvHIAmlJI=",
   "success": true,
-  "projectFilePath": "/Users/lassejon/Downloads/Unit testing course code 2/5.AdvancedTechniques/src/AdvancedTechniques/AdvancedTechniques.csproj",
+  "projectFilePath": "C:\\Development\\myProjects\\Dometrain.Testing.Unit\\5.AdvancedTechniques\\src\\AdvancedTechniques\\AdvancedTechniques.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
